@@ -1,7 +1,10 @@
-## This repository is a collection of my Python learning journey, including notes, code snippets, and projects.
+## Python Learning Journey
 
-1. Python Basics - [python_basic/datastructures](python_basics/datastructures.py)
-   - Variables and Data Types 
+This repository holds a collection of my Python learning journey, including notes, code snippets, and projects.
+
+### Contents
+1. [Python Basic](python_basics)
+   - [x] Variables and Data Types :heavy_check_mark:
    - Control Structures
    - Functions and Modules
    - File Handling
