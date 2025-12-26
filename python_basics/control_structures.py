@@ -36,4 +36,17 @@ print("---> summing up floats in a list using the built-in sum function")
 sum_using_function = sum(float_numbers)
 print(f"The total sum of the float numbers using sum(list) is: {sum_using_function}")
 
+# iterate over 0 to 4
+print("--> iterate over 0 to 4: 'for i in range(5):'")
+for i in range(5):
+    print(i)
+
+
+# iterate ovre 3 to 6
+print("--> iterate over 0 to 4: 'for i in range(3,7):'")
+for i in range (3,7):
+    print(i)
+
+
+
 
